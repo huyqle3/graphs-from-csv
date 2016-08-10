@@ -12,7 +12,7 @@ PapaParse: http://papaparse.com/
 You need a web server. I used python to initiate a web server.
 
 ```
-python
+python --version
 Python 2.7.10
 ```
 
